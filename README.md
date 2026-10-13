@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes social media platform data using Python to understand user engagement and content performance. The dataset contains information about users, posts, likes, comments, shares, impressions, watch time, hashtags, and engagement rates. Data cleaning, preprocessing, exploratory data analysis, and visualizations were performed using Pandas, NumPy, Matplotlib, and Seaborn to identify patterns and generate meaningful insights.
+Cleaned a 5,000-record dataset: mean/mode imputation of missing values, duplicate and invalid-value checks, category validation, and datetime conversion.Engineered hashtag-count and engagement-score features and log transformed engagement rates to reduce the influence of extreme values.Applied descriptive statistics, group by, and correlation analysis across post type, category, country, age group, device, verification status, and sentiment; built 10 visualizations. 
 
 # Project Workflow
 
