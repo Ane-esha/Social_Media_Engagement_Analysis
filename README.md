@@ -1,10 +1,10 @@
-#Social Media Engagement Analysis Using Python
+# Social Media Engagement Analysis Using Python
 
-##Project Overview
+## Project Overview
 
 This project analyzes social media platform data using Python to understand user engagement and content performance. The dataset contains information about users, posts, likes, comments, shares, impressions, watch time, hashtags, and engagement rates. Data cleaning, preprocessing, exploratory data analysis, and visualizations were performed using Pandas, NumPy, Matplotlib, and Seaborn to identify patterns and generate meaningful insights.
 
-#Project Workflow
+# Project Workflow
 
 Collected the social media engagement dataset containing user details, post information, engagement metrics, and content performance data.
 
@@ -32,7 +32,7 @@ Compared average watch time across different devices.
 
 Created visualizations using Matplotlib and Seaborn to present key findings and trends.
 
-##Tools and Technologies
+## Tools and Technologies
 
 - Python
 - Pandas
@@ -41,7 +41,7 @@ Created visualizations using Matplotlib and Seaborn to present key findings and 
 - Seaborn
 - Jupyter Notebook
 
-##Key Insights
+## Key Insights
 
 - Video posts recorded the highest average engagement among the post types analyzed.
 - Technology content generated the highest average engagement among the content categories.
@@ -52,7 +52,7 @@ Created visualizations using Matplotlib and Seaborn to present key findings and 
 - Watch time varied across mobile, tablet, and desktop devices.
 - Correlation analysis showed that impressions and engagement rate had a weak negative relationship, while likes and engagement rate had a weak positive relationship.
 
-##Conclusion
+## Conclusion
 
 This project helped identify patterns in social media engagement and content performance. The findings provide insights into how post types, content categories, countries, verification status, and other factors relate to engagement. These insights can help content creators and social media teams make more informed decisions about content planning and audience engagement.
 
