@@ -6,31 +6,31 @@ This project analyzes social media platform data using Python to understand user
 
 # Project Workflow
 
-Collected the social media engagement dataset containing user details, post information, engagement metrics, and content performance data.
+- Collected the social media engagement dataset containing user details, post information, engagement metrics, and content performance data.
 
-Cleaned and preprocessed the dataset by handling missing values, standardizing categorical values, and converting date and time columns into appropriate formats.
+- Cleaned and preprocessed the dataset by handling missing values, standardizing categorical values, and converting date and time columns into appropriate formats.
 
-Performed exploratory data analysis (EDA) to understand the dataset and identify important patterns.
+- Performed exploratory data analysis (EDA) to understand the dataset and identify important patterns.
 
-Analyzed user demographics, including age, gender, and country.
+- Analyzed user demographics, including age, gender, and country.
 
-Examined engagement metrics such as likes, comments, shares, impressions, watch time, and engagement rate.
+- Examined engagement metrics such as likes, comments, shares, impressions, watch time, and engagement rate.
 
-Compared engagement across post types, including images, videos, reels, and text posts.
+- Compared engagement across post types, including images, videos, reels, and text posts.
 
-Analyzed content categories to identify which topics generated higher engagement.
+- Analyzed content categories to identify which topics generated higher engagement.
 
-Explored the relationship between likes, impressions, and engagement rate using correlation analysis.
+- Explored the relationship between likes, impressions, and engagement rate using correlation analysis.
 
-Compared engagement across countries and age groups.
+- Compared engagement across countries and age groups.
 
-Analyzed verified and non-verified account performance.
+- Analyzed verified and non-verified account performance.
 
-Examined engagement and impressions by sentiment and day of the week.
+- Examined engagement and impressions by sentiment and day of the week.
 
-Compared average watch time across different devices.
+- Compared average watch time across different devices.
 
-Created visualizations using Matplotlib and Seaborn to present key findings and trends.
+- Created visualizations using Matplotlib and Seaborn to present key findings and trends.
 
 ## Tools and Technologies
 
